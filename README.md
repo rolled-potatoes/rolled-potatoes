@@ -1,4 +1,13 @@
-### Hi there 👋
+## rolled-potatoes
+
+Hi this is rolled-potatoes. 🥔🥔🥔</br>
+🖥  I'm interested in web full stack development.  🖥
+
+---
+
+- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:keep4404@gmail.com)](mailto:keep4404@gmail.com)
+
+- [velog](https://velog.io/@rolled-potatoes)
 
 <!--
 **rolled-potatoes/rolled-potatoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
