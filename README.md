@@ -1,11 +1,13 @@
 ![logos](https://user-images.githubusercontent.com/44409642/100544897-40e57a80-329c-11eb-9d1e-a3159a00b1fb.png)
 
+<p align='center'>
 Hi this is rolled-potatoes. 🥔🥔🥔</br>
 🖥  I'm interested in web full stack development.  🖥
-
+</p>
+  
 ---
 
-## Teck Stack
+<h3 align='center'>Teck Stack</h3>
 <p align='center'>
   <img src="https://img.shields.io/badge/JavaScript-f7df11?style=flat-square&logo=JavaScript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -22,8 +24,8 @@ Hi this is rolled-potatoes. 🥔🥔🥔</br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
 
-## Contact ME
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:keep4404@gmail.com)](mailto:keep4404@gmail.com)
-<a href='https://velog.io/@rolled-potatoe'><img src="https://img.shields.io/badge/velog-34e0a1?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-
+<h3 align='center'>Contact ME</h3>
+<p align='center'>
+  <a href="mailto:keep4404@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  <a href='https://velog.io/@rolled-potatoe'><img src="https://img.shields.io/badge/velog-34e0a1?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+</p>
