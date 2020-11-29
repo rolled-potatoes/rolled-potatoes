@@ -27,5 +27,5 @@ Hi this is rolled-potatoes. 🥔🥔🥔</br>
 <h3 align='center'>Contact ME</h3>
 <p align='center'>
   <a href="mailto:keep4404@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
-  <a href='https://velog.io/@rolled-potatoe'><img src="https://img.shields.io/badge/velog-34e0a1?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+  <a href='https://velog.io/@rolled-potatoes'><img src="https://img.shields.io/badge/velog-34e0a1?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </p>
