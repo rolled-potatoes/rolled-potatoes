@@ -7,7 +7,7 @@ Hi this is rolled-potatoes. 🥔🥔🥔</br>
   
 ---
 
-<h3 align='center'>Teck Stack</h3>
+<h3 align='center'>Tech Stack</h3>
 <p align='center'>
   <img src="https://img.shields.io/badge/JavaScript-f7df11?style=flat-square&logo=JavaScript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -28,4 +28,9 @@ Hi this is rolled-potatoes. 🥔🥔🥔</br>
 <p align='center'>
   <a href="mailto:keep4404@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
   <a href='https://velog.io/@rolled-potatoes'><img src="https://img.shields.io/badge/velog-34e0a1?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+</p>
+
+<p align='center'>
+  <a href="mailto:keep4404@gmail.com"><img src="https://github-readme-stats.vercel.app/api?username=rolled-potatoes&theme=dracula"/>
+  <a href='https://velog.io/@rolled-potatoes'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rolled-potatoes&layout=compact&theme=dracula"/></a>
 </p>
